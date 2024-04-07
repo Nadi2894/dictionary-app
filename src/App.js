@@ -10,7 +10,11 @@ export default function App() {
         </main>
       </div>
       <footer className="app-footer">
-        <small> This page was made by Nadira-Begim</small>
+        <small>
+          {" "}
+          This page was coded by Nadira-Begim and hosted{" "}
+          <a href="https://magenta-chaja-afc907.netlify.app"> on Netlify</a>
+        </small>
       </footer>
     </div>
   );
