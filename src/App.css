@@ -1,12 +1,13 @@
 body {
-  background-color: rgb(249, 246, 238);
+  background-image: url("https://img.freepik.com/free-photo/antique-quill-pen-writes-old-fashioned-calligraphy-generated-by-ai_24640-80756.jpg?t=st=1708453095~exp=1708456695~hmac=66c837181799bcc1553d6103d92d135b3ab47883f8f64bdf71aad331144e7d16&w=1060");
+  background-size: 100%;
 }
 
 a {
   color: rgb(254, 190, 71);
 }
 .App {
-  max-width: 960px;
+  max-width: 660px;
   margin: 0 auto;
 }
 .App-header {
